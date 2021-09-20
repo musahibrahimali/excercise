@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/musahibrahimali/excercise">
       Solution
     </a>
     <span> | </span>
@@ -42,10 +42,14 @@
 Introduce your projects by taking a screenshot, video recordings or a gif. Try to tell us about the solution you built by answering the following:
 
 - Where can I see your demo?
+
 - What was your experience building it.
 
 ### Built With
-
+React.js
+Tailwind Css
+Material UI
+open weather api
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
@@ -53,7 +57,9 @@ Introduce your projects by taking a screenshot, video recordings or a gif. Try t
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
-
+lazy-loading
+shimmer-effects during data loading
+search places for weather data
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 What features did you develop?
